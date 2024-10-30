@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color:  hsl(0, 0%, 8%);
+}
+.main1{
+    border-radius: 15px;
+    width: 300px;
+    height: 500px;
+    background-color:hsl(0, 0%, 12%) ;
+}
+.d1 img{
+    width: 90px;
+    border-radius: 90%;
+}
+.btns button{
+    width: 250px;
+    height: 30px;
+    color: white;
+    background-color: hsl(0, 0%, 20%) ;
+    border: none;
+    margin:5px ;
+}
+.btns{
+    text-align: center
+}
+.d1{
+    text-align: center
+}
+.d1 h3{
+    color: hsl(75, 94%, 57%);
+}
+.d1 h1{
+    color: hsl(0, 0%, 100%);
+}
+.d1 p{
+    color: hsl(0, 0%, 100%);
+}
+.btns button{
+
+    border-radius: 10px;
+    color: hsl(0, 0%, 100%);
+}
